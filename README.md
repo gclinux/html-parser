@@ -19,6 +19,11 @@ composer require gclinux/html-parser
 加载composer  
 require 'vendor/autoload.php';
 
+假如你已经使用bupt1987/html-parser 你可以
+从 bupt1987/html-parser中升级:
+>composer remove bupt1987/html-parser
+>composer require gclinux/html-parser
+
 ================================================================================
 ##### *Example*
 ~~~
