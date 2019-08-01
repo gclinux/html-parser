@@ -1,13 +1,13 @@
 {
-	"name": "bupt1987/html-parser",
+	"name": "gclinux/html-parser",
 	"license": "MIT",
 	"description": "Html Parser",
 	"homepage": "https://github.com/bupt1987/html-parser",
 	"authors": [
 		{
-			"name": "俊杰jerry",
-			"email": "bupt1987@gmail.com",
-			"homepage": "http://bupt1987.github.io",
+			"name": "Joffe",
+			"email": "os.debian@gmail.com",
+			"homepage": "http://gclinux.github.io",
 			"role": "Developer"
 		}
 	],

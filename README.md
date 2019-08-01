@@ -1,7 +1,7 @@
 HtmlParser
 ===============
-[![Total Downloads](https://img.shields.io/badge/downloads-9.4k-green.svg)](https://packagist.org/packages/bupt1987/html-parser)
-[![Build Status](https://api.travis-ci.org/bupt1987/html-parser.svg)](https://travis-ci.org/bupt1987/html-parser)  
+[![Total Downloads](https://img.shields.io/badge/downloads-9.4k-green.svg)](https://packagist.org/packages/gclinux/html-parser)
+[![Build Status](https://api.travis-ci.org/gclinux/html-parser.svg)](https://travis-ci.org/gclinux/html-parser)  
 
 php html解析工具，类似与PHP Simple HTML DOM Parser。
 由于基于php模块dom，所以在解析html时的效率比 PHP Simple HTML DOM Parser 快好几倍。
@@ -12,7 +12,9 @@ php html解析工具，类似与PHP Simple HTML DOM Parser。
 
 现在支持composer
 
-"require": {"bupt1987/html-parser": "dev-master"}
+#### *安装*
+命令行下
+composer require gclinux/html-parser
 
 加载composer  
 require 'vendor/autoload.php';
